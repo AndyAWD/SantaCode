@@ -13,7 +13,7 @@ Welcome to the Programmer's Secret Santa!
     - **Standard Library Only**: 禁止安裝第三方套件 (`npm install`, `pip install` ... etc are NOT allowed)。
     - **Time Limit**: 5 秒內必須執行完畢。
 4.  **如何參加 (How to Join)**:
-    - Fork 這個 Repo。
+    - <a href="https://github.com/gdg-kh/SantaCode" style="color: white;">將本專案 Fork 到你的 GitHub。</a>
     - 在 `submissions/` 下建立一個你的 **GitHub ID** 資料夾 (e.g., `submissions/torvalds/`).
     - 放入你的程式碼 (e.g., `tree.py`).
     - 發送 Pull Request。
